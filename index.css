@@ -1,0 +1,69 @@
+html {
+      height: 100%;
+    }
+    body {
+       background-color: black;
+       height: 100%;
+       margin-left: 5px;
+       font-family: arial;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-image: url("http://screenrant.com/wp-content/uploads/Darth-Vader-Star-Wars-8-Hayden-Christensen.jpg");
+    }
+
+    header {
+        background-color: none;
+        color: red;
+        padding: 15px;
+        font-size: 16pt;
+        display: block;
+        width: 790px;
+        margin: 30px;
+        font-family: gothic;
+        text-align: center;
+
+    }
+    nav {
+        line-height: 35px;
+        background-color:;
+        width:150px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: blue;
+    }
+    section {
+        background-color: none;
+        color: red;
+        width: 516px;
+        display: inline-block;
+        border-color: red;
+        border-width: 10px
+    }
+    article {
+        background-color: none;
+        }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color: none;
+      font-size: ;
+      color: red;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color: none;
+        text-align: center;
+        padding:5px;
+        display: block;
+        color: red;
+        font-size: 16pt;
+    }
